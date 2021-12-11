@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e63affeb-8b64-4864-8c69-78d194ac3f6b" name="Changes" comment="week2-3 진행">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3-1-Jetpack Compose theming/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3-1-Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/start/theme/Color.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3-1-Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/start/theme/Shape.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3-1-Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/start/theme/Theme.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3-1-Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/start/theme/Typography.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3-1-Jetpack Compose theming/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 3-1-Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/start/Home.kt" beforeDir="false" afterPath="$PROJECT_DIR$/week 3-1-Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/start/Home.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 3-2-Jetpack Compose Animation/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week 3-1-Jetpack Compose theming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week 3-1-Jetpack Compose theming/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
